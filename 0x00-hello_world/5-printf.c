@@ -1,6 +1,6 @@
 /*
  * File: 5-printf.c
- * Auth: Solomon kassa
+ * Auth: JEDAN
  */
 
 #include <stdio.h>

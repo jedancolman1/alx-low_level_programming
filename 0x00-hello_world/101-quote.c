@@ -1,6 +1,6 @@
 /*
  * File: 101-quote.c
- * Authr: Solomon kassa
+ * Authr: JEDAN
  */
 
 #include <unistd.h>
